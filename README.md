@@ -1,4 +1,10 @@
-# Introduction
+# iotdevice-device-ui
+
+## Note
+
+*This snap has been modified to only run on riscv64!*
+
+## Introduction
 
 This snap is used together with `iotdevice-device-controller` snap and provides the UI application which communicates with snapd-rest-api via a python based backend.
 
